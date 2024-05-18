@@ -12,9 +12,6 @@ https://github.com/prachikaag/YoutubeApp/assets/37405362/0518feae-d95f-48b2-8e61
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Reference URL - https://www.youtube.com/watch?v=FHTbsZEJspU&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=8
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
@@ -31,6 +28,9 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+
+Reference URL - https://www.youtube.com/watch?v=FHTbsZEJspU&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=8
+## Available Scripts
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
