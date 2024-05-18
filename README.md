@@ -1,4 +1,4 @@
-# Visit this site to checkout the version of our deployed app using Netlify
+# Visit this site to checkout the version of my deployed app using Netlify
 https://curious-profiterole-56fc38.netlify.app/
 
 # Working Demo of App
