@@ -31,7 +31,7 @@ export const categories = [
   { name: 'Fashion', icon: <CheckroomIcon />, },
   { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
-  { name: 'JSMastery', icon: <CodeIcon />, },
+  // { name: 'JSMastery', icon: <CodeIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
